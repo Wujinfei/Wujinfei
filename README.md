@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Wujinfei
-- 👀 I’m interested in particle physics and making money!!!
+- 👀 I’m interested in particle physics!!!
 - 🌱 I’m currently learning high energy physics(AKA particle physics), stock market, machine learning and AI.
-- 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me by mail.
 
 <!---
